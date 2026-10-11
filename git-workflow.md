@@ -8,4 +8,17 @@
 # git commit -m "..."
 3- local repo (desktop)
 
-4- remote repo (cloud)
+# git push -u origin main
+4- remote repo (cloud) = github
+
+# git log 
+show the commits
+
+# git show id
+show whole data in commit
+
+# git branch -M main (1)
+change name of main branch from master to main
+
+# git remote add origin url (1)
+connect with remote repo
