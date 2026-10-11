@@ -28,3 +28,12 @@ show me the branch that i used
 
 # git checkout -b HH
 create branch and switch to use it
+
+# git switch HH
+move to HH branch
+
+# git fetch
+pull updates from remote repo to local repo
+
+# git merge origin/HH
+merge HH branch code to main code
