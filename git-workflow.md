@@ -22,3 +22,9 @@ change name of main branch from master to main
 
 # git remote add origin url (1)
 connect with remote repo
+
+# git branch
+show me the branch that i used
+
+# git checkout -b HH
+create branch and switch to use it
